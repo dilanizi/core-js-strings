@@ -371,7 +371,7 @@ function invertCase(/* str */) {
 
 /**
  * Returns the result of string template and given parameters firstName and lastName.
- * Please do not use concatenation, use template string :
+ * Please do not use concatenation, use template
  * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings
  *
  * @param {string} firstName - The first name to include in the template.
